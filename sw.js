@@ -1,4 +1,4 @@
-const CACHE = 'xervix-v6-1';
+const CACHE = 'xervix-v6-2';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-maskable.png'];
 
 self.addEventListener('install', e => {
